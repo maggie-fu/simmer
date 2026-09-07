@@ -1,0 +1,10 @@
+# SimMeR prototype dependencies (CPU-only).
+# PyTorch CPU wheels come from the PyTorch index; install with:
+#   pip install --index-url https://download.pytorch.org/whl/cpu torch==2.4.1
+#   pip install -r requirements.txt
+torch==2.4.1
+numpy>=1.26,<3
+pandas>=2.1
+scikit-learn>=1.3
+scipy>=1.11
+matplotlib>=3.7

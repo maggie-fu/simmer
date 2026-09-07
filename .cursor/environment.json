@@ -1,0 +1,4 @@
+{
+  "name": "SimMeR prototype (Python cVAE, CPU)",
+  "install": "bash scripts/cloud-install.sh"
+}
