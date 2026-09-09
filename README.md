@@ -12,6 +12,9 @@ rather than surface realism.
 
 The whole Aim 1 → Aim 2 pipeline runs end-to-end in seconds on a laptop/CPU.
 
+> **New here?** See the full [User Guide](docs/USER_GUIDE.md) for installation,
+> CLI/API reference, cohort design, output interpretation, and troubleshooting.
+
 ## Why a synthetic reference?
 
 The real project trains on ~30,000 blood DNAm profiles from GEO plus
